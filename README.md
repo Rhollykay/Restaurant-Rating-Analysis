@@ -16,7 +16,9 @@ Analysis of restaurant rating across 3 Mexican states (San Luis Potosí, Morelos
 - Power Query
 - Dax
 # Dashboard
-
+![Image](https://github.com/user-attachments/assets/68f7660c-f05e-4b70-9f97-c817d4fae046)
+![Image](https://github.com/user-attachments/assets/f8a80cac-8e44-45ed-a42e-3aecb4710b05)
+![Image](https://github.com/user-attachments/assets/d2c24ce9-b7fa-4e01-8253-88d8703112ee)
 # Key Insights
 
 #  Market Dynamics
